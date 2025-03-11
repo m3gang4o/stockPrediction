@@ -1,6 +1,6 @@
 # 📈 Stock Price Prediction using Machine Learning in Python  
 
-This project aims to predict stock prices using various **machine learning techniques** in Python. By leveraging **historical stock data**, we analyze trends and make predictions using models like **Linear Regression, LSTM, and Random Forest**.  
+This project aims to predict stock prices using various **machine learning techniques** in Python. By leveraging **historical stock data**, we analyze trends and make predictions using models like **Linear Regression, LSTM, and Random Forest**. This was a personal project that I completed while researching for machine learning projects! 
 
 ## **🔍 Overview**
 Stock price prediction is a crucial problem in finance and trading. The objective of this project is to build a **machine learning model** that can forecast stock prices based on historical data.  
